@@ -304,6 +304,7 @@ pre {
   }
   .navbar .flex {
     flex-direction: column;
+    overflow: visible;
   }
   .navbar ul {
     padding: 10px;
